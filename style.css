@@ -1,0 +1,51 @@
+.container{
+    width: 70%;
+    margin :auto;
+    text-align: center;
+}
+.coin{
+    display: inline-block;
+    text-align: center;
+}
+img{
+  width:80%;
+  height:50%;
+  border-radius: 70%
+
+}
+body{
+    background-image:;
+}
+h1 {
+    margin: 30px;
+    font-family: 'Lobster', cursive;
+    text-shadow: 5px 0 #232931;
+    font-size: 8rem;
+    color: #4ECCA3;
+}
+
+p{
+    font-size: 2rem;
+    color: #4ECCA3;
+    font-family: 'Indie Flower', cursive;
+}
+footer{
+    text-align: center;
+    margin-top: 5%;
+    font-size: 100%;
+}
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    background-color: #3498db; /* Button color */
+    color: #fff; /* Text color */
+    cursor: pointer;
+  }
+  button:hover {
+    background-color: #2980b9; /* Change color on hover */
+  }
+  button:active {
+    background-color: #21618c; /* Change color when button is pressed */
+  }
